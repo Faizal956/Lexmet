@@ -1,0 +1,6 @@
+{
+  "name": "Lexmet",
+  "description": "Lexmet: Digital inspection and compliance management for packaged commodities by enforcement officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
